@@ -1,4 +1,4 @@
-name: Deploy to Vue Storefront Cloud
+name: Deploy to Vue Storefront Cloud 
 on:
   push:
     branches:
